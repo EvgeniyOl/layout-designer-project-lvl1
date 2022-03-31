@@ -2,7 +2,6 @@
   position: absolute;
   width: 1440px;
   height: 914px;
-  left: 0px;
   top: 914px;
   background: #ffffff;
 }
@@ -12,23 +11,17 @@
   height: 146px;
   left: 165px;
   top: 100px;
-}
-.title-video-section-1 {
   font-family: "Neucha";
   font-style: normal;
   font-weight: 400;
   font-size: 60px;
   line-height: 72px;
   text-align: center;
+}
+.title-video-section-1 {
   color: #2a2626;
 }
 .title-video-section-2 {
-  font-family: "Neucha";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 60px;
-  line-height: 72px;
-  text-align: center;
   color: #fe8a02;
 }
 .video-section-minititle {

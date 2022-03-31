@@ -1,0 +1,103 @@
+.ikea {
+  position: absolute;
+  width: 1440px;
+  height: 905px;
+  top: 2719px;
+  background-image: url(/src/images/background.png);
+}
+.ikea-img {
+  position: absolute;
+  width: 578px;
+  height: 434px;
+  left: 165px;
+  top: 100px;
+  filter: drop-shadow(0px 16px 32px rgba(0, 0, 0, 0.15));
+}
+.block-img-minititle {
+  position: absolute;
+  width: 502px;
+  height: 29px;
+  left: 773px;
+  top: 100px;
+  font-family: "Neucha";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #908d8b;
+}
+.block-img-title {
+  position: absolute;
+  width: 502px;
+  height: 72px;
+  left: 773px;
+  top: 129px;
+  font-family: "Neucha";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72px;
+  color: #2a2626;
+}
+.block-img-body {
+  position: absolute;
+  width: 502px;
+  height: 120px;
+  left: 773px;
+  top: 231px;
+  font-family: "Neucha";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 41px;
+  color: #2a2626;
+}
+.ikea-footer-title {
+  position: absolute;
+  width: 1110px;
+  height: 26px;
+  left: 165px;
+  top: 634px;
+  background: #b09a81;
+}
+.ikea-footer-title p {
+  position: absolute;
+  height: 16px;
+  left: 10px;
+  top: 5px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.ikea-footer-block-left {
+  position: absolute;
+  width: 540px;
+  height: 125px;
+  left: 165px;
+  top: 680px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #2a2626;
+}
+.ikea-footer-block-right {
+  position: absolute;
+  width: 540px;
+  height: 125px;
+  left: 735px;
+  top: 680px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #2a2626;
+}

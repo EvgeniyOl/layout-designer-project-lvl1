@@ -1,0 +1,89 @@
+.hiperbolic {
+  position: absolute;
+  width: 1440px;
+  height: 937px;
+  left: 0px;
+  top: 5359px;
+  background: #b09a81;
+}
+.hiperbolic-img {
+  position: absolute;
+  width: 578px;
+  height: 434px;
+  left: 697px;
+  top: 100px;
+  filter: drop-shadow(0px 16px 32px rgba(0, 0, 0, 0.15));
+}
+.hiperbolic-minitittle {
+  position: absolute;
+  width: 502px;
+  height: 29px;
+  left: 165px;
+  top: 100px;
+  font-family: "Neucha";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #d7ccc0;
+}
+.hiperbolic-title {
+  position: absolute;
+  width: 502px;
+  height: 144px;
+  left: 165px;
+  top: 129px;
+  font-family: "Neucha";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72px;
+  color: #ffffff;
+}
+.hiperbolic-body {
+  position: absolute;
+  width: 502px;
+  height: 164px;
+  left: 165px;
+  top: 303px;
+  font-family: "Neucha";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 120%;
+  color: #ffffff;
+}
+.hiperbolic-footer-block-tittle {
+  position: absolute;
+  width: 1110px;
+  height: 27px;
+  left: 165px;
+  top: 634px;
+  background: #ffffff;
+}
+.hiperbolic-footer-block-left {
+  position: absolute;
+  width: 540px;
+  height: 78px;
+  left: 165px;
+  top: 681px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #ffffff;
+}
+.hiperbolic-footer-block-right {
+  position: absolute;
+  width: 540px;
+  height: 156px;
+  left: 735px;
+  top: 681px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  color: #ffffff;
+}
