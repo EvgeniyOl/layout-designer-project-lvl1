@@ -2,9 +2,11 @@
   position: absolute;
   width: 1440px;
   height: 937px;
-  left: 0px;
   top: 5359px;
   background: #b09a81;
+}
+.hiper-background {
+  opacity: 0.1;
 }
 .hiperbolic-img {
   position: absolute;
@@ -14,41 +16,35 @@
   top: 100px;
   filter: drop-shadow(0px 16px 32px rgba(0, 0, 0, 0.15));
 }
-.hiperbolic-minitittle {
+.hiper-block {
   position: absolute;
+  font-family: "Neucha";
+  font-style: normal;
+  font-weight: 400;
+}
+.hiperbolic-minitittle {
   width: 502px;
   height: 29px;
   left: 165px;
   top: 100px;
-  font-family: "Neucha";
-  font-style: normal;
-  font-weight: 400;
   font-size: 24px;
   line-height: 29px;
   color: #d7ccc0;
 }
 .hiperbolic-title {
-  position: absolute;
   width: 502px;
   height: 144px;
   left: 165px;
   top: 129px;
-  font-family: "Neucha";
-  font-style: normal;
-  font-weight: 400;
   font-size: 60px;
   line-height: 72px;
   color: #ffffff;
 }
 .hiperbolic-body {
-  position: absolute;
   width: 502px;
   height: 164px;
   left: 165px;
   top: 303px;
-  font-family: "Neucha";
-  font-style: normal;
-  font-weight: 400;
   font-size: 34px;
   line-height: 120%;
   color: #ffffff;
@@ -60,6 +56,11 @@
   left: 165px;
   top: 634px;
   background: #ffffff;
+}
+.hiperbolic-footer-block-tittle p {
+  position: absolute;
+  left: 10px;
+  font-family: "Neucha";
 }
 .hiperbolic-footer-block-left {
   position: absolute;

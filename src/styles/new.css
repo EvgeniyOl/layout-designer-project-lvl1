@@ -2,11 +2,12 @@
   position: absolute;
   width: 1440px;
   height: 880px;
-  left: 0px;
   top: 4479px;
-  background-image: url(../images/background.png);
 }
-.new img {
+.new-background {
+  opacity: 0.1;
+}
+.new-section-img {
   position: absolute;
   width: 578px;
   height: 434px;
@@ -14,41 +15,35 @@
   top: 100px;
   filter: drop-shadow(0px 16px 32px rgba(0, 0, 0, 0.15));
 }
-.new-img-minitittle {
+.new-block {
   position: absolute;
+  font-family: "Neucha";
+  font-style: normal;
+  font-weight: 400;
+}
+.new-img-minitittle {
   width: 502px;
   height: 29px;
   left: 773px;
   top: 100px;
-  font-family: "Neucha";
-  font-style: normal;
-  font-weight: 400;
   font-size: 24px;
   line-height: 29px;
   color: #908d8b;
 }
 .new-img-tittle {
-  position: absolute;
   width: 550px;
   height: 72px;
   left: 773px;
   top: 129px;
-  font-family: "Neucha";
-  font-style: normal;
-  font-weight: 400;
   font-size: 60px;
   line-height: 72px;
   color: #2a2626;
 }
 .new-img-body {
-  position: absolute;
   width: 502px;
   height: 164px;
   left: 773px;
   top: 231px;
-  font-family: "Neucha";
-  font-style: normal;
-  font-weight: 400;
   font-size: 34px;
   line-height: 120%;
   color: #2a2626;
@@ -60,6 +55,11 @@
   left: 165px;
   top: 634px;
   background: #b09a81;
+}
+.new-footer-block-tittle p {
+  position: absolute;
+  left: 10px;
+  font-family: "Neucha";
 }
 .new-footer-block-left {
   position: absolute;

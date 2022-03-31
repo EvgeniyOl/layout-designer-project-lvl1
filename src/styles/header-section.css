@@ -5,6 +5,8 @@
   height: 100%;
   background-image: url(../../src/images/background.png);
   opacity: 0.1;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .title p {
   position: absolute;

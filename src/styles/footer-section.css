@@ -14,21 +14,81 @@
   top: 100px;
   background: #42413c;
 }
+.footer-block-following {
+  position: absolute;
+  width: 393px;
+  height: 80px;
+  left: 55px;
+  top: 55px;
+  font-family: "Neucha";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 120%;
+  color: #ffffff;
+}
+.email {
+  position: absolute;
+  width: 184px;
+  height: 28px;
+  left: 570px;
+  top: 38px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+  color: #ffffff;
+}
+.footer-block-form input {
+  position: absolute;
+  width: 423px;
+  height: 50px;
+  left: 570px;
+  top: 75px;
+}
+.rules {
+  position: absolute;
+  left: 570px;
+  top: 125px;
+  position: absolute;
+  width: 350px;
+  height: 25px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 160%;
+  color: #ffffff;
+}
+.footer-block-form button {
+  position: absolute;
+  width: 70px;
+  height: 50px;
+  right: 48px;
+  top: 75px;
+  background: #fe8a02;
+}
+.footer-block-form button:hover {
+  position: absolute;
+  background: #ea7600;
+}
+.footer-block-form button img {
+  position: absolute;
+  left: 18px;
+  top: 10px;
+}
 .fio {
   position: absolute;
   width: 289px;
   height: 22px;
   left: 575px;
   top: 366px;
-
   font-family: "Open Sans";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 160%;
-  /* or 22px */
-
   text-align: center;
-
   color: #000000;
 }
